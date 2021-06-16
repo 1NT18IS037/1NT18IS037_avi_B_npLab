@@ -3,7 +3,7 @@ void main()
 {
 int i,f[20],n[50],div[50],j,temp,quotient[20],z[10];
 printf("enter the number\n");
-for(i=0;i<8;i++)
+for(i=0;i<6;i++)
 {
 scanf("%d",&n[i]);
 }
